@@ -21,7 +21,7 @@ WebUI.setText(findTestObject('Object Repository/Page_Infornest/input_Username_us
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Infornest/input_Password_password'), 'aeHFOx8jV/A=')
 
-WebUI.delay(5)
+WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Page_Infornest/button_Login'))
 
